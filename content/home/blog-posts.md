@@ -3,7 +3,7 @@ widget: pages
 widget_id: Blog
 headless: true
 weight: 20
-title: Blogs
+title: ""
 subtitle: ""
 active: true
 content:
@@ -24,7 +24,7 @@ design:
   view: card
   flip_alt_rows: true
   background:
-    color: "#d4e580"
+    color: ""
   spacing:
     padding:
       - 0
