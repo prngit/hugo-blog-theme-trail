@@ -20,7 +20,7 @@ content:
   archive:
     enable: false
 design:
-  columns: "2"
+  columns: "4"
   view: card
   flip_alt_rows: true
   background:
